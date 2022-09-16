@@ -1,0 +1,103 @@
+16-Sep-2022 17:25:03.202 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/lib], exists: [false], isDirectory: [false], canRead: [false]
+16-Sep-2022 17:25:03.210 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/lib], exists: [false], isDirectory: [false], canRead: [false]
+16-Sep-2022 17:25:03.210 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/lib], exists: [false], isDirectory: [false], canRead: [false]
+16-Sep-2022 17:25:03.210 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/lib], exists: [false], isDirectory: [false], canRead: [false]
+16-Sep-2022 17:25:03.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/@VERSION@
+16-Sep-2022 17:25:03.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          @VERSION_BUILT@
+16-Sep-2022 17:25:03.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: @VERSION_NUMBER@
+16-Sep-2022 17:25:03.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+16-Sep-2022 17:25:03.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.13.6
+16-Sep-2022 17:25:03.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+16-Sep-2022 17:25:03.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre
+16-Sep-2022 17:25:03.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_73-b02
+16-Sep-2022 17:25:03.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+16-Sep-2022 17:25:03.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Volumes/work/aiguoxin/apache-tomcat-8.5.82-src
+16-Sep-2022 17:25:03.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Volumes/work/aiguoxin/apache-tomcat-8.5.82-src
+16-Sep-2022 17:25:03.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:57509,suspend=y,server=n
+16-Sep-2022 17:25:03.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src
+16-Sep-2022 17:25:03.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src
+16-Sep-2022 17:25:03.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=/Volumes/work/aiguoxin/apache-tomcat-8.5.82-srce/endorsed
+16-Sep-2022 17:25:03.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/temp
+16-Sep-2022 17:25:03.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+16-Sep-2022 17:25:03.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/conf/logging.properties
+16-Sep-2022 17:25:03.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.country=EN
+16-Sep-2022 17:25:03.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Users/liuruixue/Library/Caches/IntelliJIdea2019.2/groovyHotSwap/gragent.jar
+16-Sep-2022 17:25:03.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Users/liuruixue/Library/Caches/IntelliJIdea2019.2/captureAgent/debugger-agent.jar
+16-Sep-2022 17:25:03.832 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+16-Sep-2022 17:25:03.832 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/liuruixue/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+16-Sep-2022 17:25:04.074 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+16-Sep-2022 17:25:04.170 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 933 ms
+16-Sep-2022 17:25:04.277 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+16-Sep-2022 17:25:04.280 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/@VERSION@]
+16-Sep-2022 17:25:04.345 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/docs]
+16-Sep-2022 17:25:04.961 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/docs] has finished in [615] ms
+16-Sep-2022 17:25:04.961 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/examples]
+16-Sep-2022 17:25:05.098 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+16-Sep-2022 17:25:05.099 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal Context [/examples] startup failed due to previous errors
+16-Sep-2022 17:25:05.111 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/examples] has finished in [150] ms
+16-Sep-2022 17:25:05.111 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/host-manager]
+16-Sep-2022 17:25:05.220 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/host-manager] has finished in [109] ms
+16-Sep-2022 17:25:05.220 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/manager]
+16-Sep-2022 17:25:05.308 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/manager] has finished in [88] ms
+16-Sep-2022 17:25:05.309 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/ROOT]
+16-Sep-2022 17:25:05.373 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/ROOT] has finished in [64] ms
+16-Sep-2022 17:25:05.377 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+16-Sep-2022 17:25:05.404 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1233 ms
+16-Sep-2022 17:25:58.076 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+16-Sep-2022 17:25:58.085 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+16-Sep-2022 17:25:58.110 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+16-Sep-2022 17:25:58.123 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+16-Sep-2022 17:26:42.156 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/lib], exists: [false], isDirectory: [false], canRead: [false]
+16-Sep-2022 17:26:42.166 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/lib], exists: [false], isDirectory: [false], canRead: [false]
+16-Sep-2022 17:26:42.166 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/lib], exists: [false], isDirectory: [false], canRead: [false]
+16-Sep-2022 17:26:42.166 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/lib], exists: [false], isDirectory: [false], canRead: [false]
+16-Sep-2022 17:26:43.057 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/@VERSION@
+16-Sep-2022 17:26:43.057 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          @VERSION_BUILT@
+16-Sep-2022 17:26:43.057 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: @VERSION_NUMBER@
+16-Sep-2022 17:26:43.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+16-Sep-2022 17:26:43.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.13.6
+16-Sep-2022 17:26:43.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+16-Sep-2022 17:26:43.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre
+16-Sep-2022 17:26:43.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_73-b02
+16-Sep-2022 17:26:43.059 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+16-Sep-2022 17:26:43.059 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Volumes/work/aiguoxin/apache-tomcat-8.5.82-src
+16-Sep-2022 17:26:43.059 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Volumes/work/aiguoxin/apache-tomcat-8.5.82-src
+16-Sep-2022 17:26:43.061 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:58137,suspend=y,server=n
+16-Sep-2022 17:26:43.061 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src
+16-Sep-2022 17:26:43.061 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src
+16-Sep-2022 17:26:43.062 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=/Volumes/work/aiguoxin/apache-tomcat-8.5.82-srce/endorsed
+16-Sep-2022 17:26:43.062 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/temp
+16-Sep-2022 17:26:43.062 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+16-Sep-2022 17:26:43.062 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/conf/logging.properties
+16-Sep-2022 17:26:43.062 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.country=EN
+16-Sep-2022 17:26:43.063 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Users/liuruixue/Library/Caches/IntelliJIdea2019.2/groovyHotSwap/gragent.jar
+16-Sep-2022 17:26:43.063 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Users/liuruixue/Library/Caches/IntelliJIdea2019.2/captureAgent/debugger-agent.jar
+16-Sep-2022 17:26:43.063 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+16-Sep-2022 17:26:43.063 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/liuruixue/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+16-Sep-2022 17:26:43.355 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+16-Sep-2022 17:26:43.459 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1251 ms
+16-Sep-2022 17:26:43.578 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+16-Sep-2022 17:26:43.579 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/@VERSION@]
+16-Sep-2022 17:26:43.659 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/docs]
+16-Sep-2022 17:26:44.782 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16-Sep-2022 17:26:44.873 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/docs] has finished in [1,212] ms
+16-Sep-2022 17:26:44.873 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/examples]
+16-Sep-2022 17:26:45.424 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16-Sep-2022 17:26:45.471 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+16-Sep-2022 17:26:45.472 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal Context [/examples] startup failed due to previous errors
+16-Sep-2022 17:26:45.488 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/examples] has finished in [615] ms
+16-Sep-2022 17:26:45.489 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/host-manager]
+16-Sep-2022 17:26:46.508 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16-Sep-2022 17:26:46.576 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/host-manager] has finished in [1,087] ms
+16-Sep-2022 17:26:46.577 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/manager]
+16-Sep-2022 17:26:47.007 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16-Sep-2022 17:26:47.011 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/manager] has finished in [435] ms
+16-Sep-2022 17:26:47.011 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/ROOT]
+16-Sep-2022 17:26:47.319 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16-Sep-2022 17:26:47.321 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Volumes/work/aiguoxin/apache-tomcat-8.5.82-src/webapps/ROOT] has finished in [310] ms
+16-Sep-2022 17:26:47.329 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+16-Sep-2022 17:26:47.366 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 3906 ms
+16-Sep-2022 17:26:57.520 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+16-Sep-2022 17:26:57.529 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+16-Sep-2022 17:26:57.570 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+16-Sep-2022 17:26:57.577 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
